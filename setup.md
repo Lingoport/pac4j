@@ -2,7 +2,7 @@
 # Instructions to build the pac4j jars needed for Localyzer-Express and Globalyzer-Express
 
 ## Overview
-Localyzer-Express and Globalyzer-Expres use the grails spring-security-rest plugin for oauth2 authentication of users 
+Localyzer-Express and Globalyzer-Express use the grails spring-security-rest plugin for oauth2 authentication of users 
 via GitHub, Bitbucket, and Gitlab.
 
 The grails plugin depends on pac4j to define the various oauth2 client profiles (GitHub, Bitbucket, Gitlab).
